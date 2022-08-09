@@ -1,0 +1,52 @@
+No,Penyakit,Gejala
+1,Penyakit,Gejala
+2,Diare,Perut mulas. Pusing. Badan Lemas. Tinja encer. berwarna kehijau-hijauan. disertai lendir atau darah. Dehidrasi. Haus terus - menerus. Lecet pada anus dan sekitarnya. suhu tubuh meningkat. merasa tidak tuntas setelah BAB
+3,Diare,Pusing. Lemas. Tinja encer. Dehidrasi
+4,Diare,Perut mulas. Lemas. Merasa tidak tuntas setelah BAB.
+5,Diare,Haus terus menerus. Lemas. Tinja encer. Tinja berwarna kehijau-hijauan. Disertai lendir dan darah.
+6,Diare,Badan lemas. Suhu meningkat. Perut mulas. Tinja encer disertai lendir atau darah. Lecet pada anus dan sekitarnya
+7,Gastritis (Maag),Nyeri ulu hati disertai sensasi terbakar di dada. Mual. Muntah. Kembung pada perut bagian atas. Ada rasa panas dalam akibat naiknya asam lambung. Nafsu makan menurun. Sering sendawa. Mudah kenyang
+8,Gastritis (Maag),Mual. Muntah. Ada rasa panas dalam akibat naiknya asam lambung. Mudah kenyang
+9,Gastritis (Maag),Nafsu makan menurun. Nyeri ulu hati disertai sensasi terbakar di dada. Seringsendawa. Muntah
+10,Gastritis (Maag),mudah kenyang. Perut kembung dan terasa penuh. Mual. Asam lambung naik ke kerongkongan. Muntah
+11,Gastritis (Maag),Perut kembung. Muntah terus menerus. Muntah darah. Tinja berwarna gelap atau mengandung darah. Sulit bernafas
+12,Konstipasi (Sembelit),sakit perut. BAB kurang dari 3x seminggu. Harus mengejan saat BAB. nyeri saat BAB. tinja kering dan menggumpal. Terasa ada yang mengganjal di bagian akhir usus besar/rektum. Perut kembung. merasa tidak tuntas setelah BAB
+13,Konstipasi (Sembelit),"sakit perut. Harus mengejan saat bab. Tinja terlihat kering, keras, atau nergumpal."
+14,Konstipasi (Sembelit),perut kembung. Nyeri saat BAB. BAB kurang dari 3x seminggu. Tinja terlihat kering
+15,Konstipasi (Sembelit),sakit perut. BAB kurang dari 3x seminggu. Harus mengejan saat BAB. Nyeri saat BAB
+16,Konstipasi (Sembelit),"Sakit perut. Tinja terlihat kering, keras, bergumbal. BAB kurang dari 3x seminggu. Terasa ada yang mengganjal di bagian akhir usus besar/rektum. Perlu bntuan tangan untuk mengeluarkan tinja"
+17,Apendicitis (Radang Usus Buntu),"Hilang nafsu makan. Nyeri perut di bagian pusar, semakin sakit ketika berpindah ke kanan. Perut kembung. Sakit di bagian perut.  Sulit Buang angin. Mual. Muntah. Konstipasi. Demam. Kram perut"
+18,Apendicitis (Radang Usus Buntu),Perut kembung.  Sulit Buang angin. Mual. Hilang nafsu makan. Demam. Sakit perut di daerah pusar
+19,Apendicitis (Radang Usus Buntu),Nyeri perut di daerah pusar. Mual. Muntah. Perut keram. Nyeri pada punggung
+20,Apendicitis (Radang Usus Buntu),Demam. Sulit Buang angin. Mual. Nyeri perut daerah pusar. Muntah sebelum nyeri perut muncul. Hilang nafsu makan 
+21,Apendicitis (Radang Usus Buntu)," nyeri perut pada pusar. Sulit Buang angin. Demam. Mual. Nyeri saat buang air kecil. Nyeri di daerah perut atas atau bawah, punggung atau rektum. Mual sebelum nyeri perut muncul. Kram perut hebat. Diare"
+22,Keracunan (Makanan),"muntah. Mual. Perut mulas. Demam, Sakit kepala. Badan lemas. Nyeri pada perut. Kram perut.  Diare."
+23,Keracunan (Makanan),Mual. Muntah. Demam. Sakit kepala. Kram perut. Diare
+24,Keracunan (Makanan),Demam. Sakit kepala. Mual. Muntah. Perut mulas. Diare
+25,Keracunan (Makanan),Demam. Mual. Muntah. Sakit kepala. Nyeri pada perut. Perut mulas. Tinja encer. Diare
+26,Keracunan (Makanan),Mual. Muntah. Nyeri pada perut. Demam. Sakit kepala. Tinja encer. Diare berair atau berdarah.
+27,Sariawan,"Ada sensasi kesemutan atau terbakar di daerah bibir atau mulut, Muncul kemerahan dan luka yang terasa nyeri, sakit di daerah bibir atau mulut, Luka bisa berwana putih atau kuning dengan tepi berwarna merah"
+28,Sariawan,Sensasi terbakar pada lidah. Mulut terasa tidak nyaman. Muncul kemerahan kemudian luka pada mulut. Luka berwarna putih. 
+29,Sariawan,Mulut terasa tidak nyaman. Rasa tidak nyaman saat menelan. Ada sensasi terbakar di daerah bibir atau mulut. Luka berwarna putih yang muncul pada lidah atau bibir. Luka memiliki diamaeter kurang dari 1cm
+30,Sariawan,Mulut terasa tidak nyaman. Ada sensasi terbakar di daerah lidah atau bibir. Bagian dalam mulut dan tenggorokan berwarna merah. Luka berwarna  putih atau kemerahan pada lidah atau bibir. Luka memiliki diameter sekitar 2-3cm
+31,Sariawan,"Mulut terasa tidak nyaman. Ada sensasi terbakar di daerah lidah atau bibir. Muncul kemerahan kemudian luka pada lidah atau mulut. Luka berwarna  putih, kuning dengan tepi berwarna merah pada area mulut termasuk lidah, langit-langit, bawah lidah, bibir. Luka memiliki diameter sekitar 1-2mm. Luka lebih dari 1 dan berkelompok"
+32,Hepatitis,Mual. Muntah. Demam. Urine berwarna gelap. Kelelahan. Nyeri perut. Nyeri sendi. Nafsu makan hilang. Mata dan kulit berwarna kuning
+33,Hepatitis,Nyeri otot dan sendi. Merasa haus terus menerus. Sakit perut. Nafsu makan hilang. Urin berwarna gelap. Demam tinggi (>38�C). Mual. Muntah.
+34,Hepatitis,Nafsu makan hilang. Nafsu makan hilang. Nyeri otot dan sendi. Wajah pucat. Kulit gatal. Urin berwarna gelap. Menguningnya Mata dan kulit
+35,Hepatitis,Mual. Muntah. Demam tinggi (>38C). Penurunan nahsiu makan. Nyeri perut. Nyeri sendi. Urin berwarna gelap. Feses berwarna pucat. Menguningnya Mata dan kulit
+36,Hepatitis,Mual. Muntah. Demam tinggi (>38C). Merasa haus terus menerus. Badan terasa lelah. Nyeri perut. Nyeri otot dan sendi. Wajah pucat. Diare. Urin berwarna gelap. Feses berwarna pucat. Mata dan kulit berwarna kuning
+37,Hemoroid (wasir),"Gatal, bengkak. Sakit di daerah anus. Pendarahan dan nyeri saat BAB. Adanya benjolan yang menggantung di luar anus dan nyeri saat tersentuh. Kotoran keluar sendiri dari anus. Keluar lendir seterlah BAB"
+38,Hemoroid (wasir),Mengalami gatal di sekitar anus. Nyeri saaat BAB. Terdapat lendir setelah buang air besar. Adanya Benjolan tergantung di luar anus
+39,Hemoroid (wasir),pendarahan berwarna merah terang dan tidak nyeri setelah BAB. Gatal dan sakit di daerah Anus. Bengkak di sekitar Anus. Adanya benjolan tergantung di luar anus
+40,Hemoroid (wasir),"Gatal, iritasi , sakit sekitar anus. Pendarahan berwarna merah terang dan tidak nyeri setelah BAB. Darah merah terang menetes dari dubur. Keluar lendir setelah BAB. Adanya benjolan yang menggantung di luar anus dan nyeri saat tersentuh"
+41,Hemoroid (wasir),"Merasa Sakit kepala. Gatal, bengkak, sakit di daerah anus.  Pendarahan berwarna merah terang dan tidak nyeri setelah BAB. Darah merah terang menetes dari dubur. Terdapat lendir setelah BAB. BAB berwarna hitam. BAB berdarah. Adanya benjolan yang menggantung di luar anus dan nyeri saat tersentuh"
+42,Demam Tifoid (Tifus),Nyeri otot. Sakit kepala. Kehilangan nafsu makan. Demam tinggi (39-40C) tapi bertahap dan lebih tinggi saat malam hari. Kelelahan dan lemas. Batuk kering. Sakit perut. Konstipasi atau diare parah. Berat badan menurun. Perut kembung. Muncul ruam (bintik merah) pada kulit. 
+43,Demam Tifoid (Tifus),Sakit kepala. Sakit perut. Mual. Demam tinggi (39-40C) tapi bertahap dan lebih tinggi saat malam hari. Hilang nafsu makan. Badan lemas lemas. Sakit perut. Perut kembung.  Perut kembung. Muncul ruam (bintik merah) pada kulit. Diare 
+44,Demam Tifoid (Tifus),Nyeri sendi. Sakit Perut. Perut kembung. Berkeringat. Badan lemas. Nyeri otot. Hilangan nafsu makan. Demam tinggi (39-40C) tapi bertahap dan lebih tinggi saat malam hari.  Diare parah.  Muncul ruam (bintik merah) pada kulit. Merasa Linglung
+45,Demam Tifoid (Tifus),Badan lemas. Batuk kering. Sakit kepala. Mudah lelah. Nyeri otot dan sendi. Batuk kering. Kehilangan nafsu makan. Demam tinggi (39-40C) tapi bertahap dan lebih tinggi saat malam hari. Mual. Berat badan menurun. Muntah Konstipasi atau diare parah. Perut kembung. Muncul ruam (bintik merah) pada kulit. 
+46,Demam Tifoid (Tifus),Batuk Kering. Nyeri sendi. Sakit Kepala. Berat badan menurun. Mudah lelah. Badan Lemas. Nyeri otot. Hilangan nafsu makan. Berkeringat.  Demam tinggi (39-40C) tapi bertahap dan lebih tinggi saat malam hari. Batuk kering. Muncul ruam (bintik merah) pada kulit. Perut kembung Konstipasi atau diare parah.
+47,Tukak Lambung (Luka pada lambung),Sakit maag. Mual. Muntah. Hilang nafsu makan. Lemas. Dada terasa terbakar. Perut kembung. Sulit menarik nafas. Sering bersendawa. Nyeri atau perih pada perut
+48,Tukak Lambung (Luka pada lambung),Mual. Muntah. Lemas. Berat badan turun. Sulit menarik nafas. Perut kembung. Sering sendawa. Dada seperti terbakar. Nyeri atau perih pada perut pada malam hari
+49,Tukak Lambung (Luka pada lambung),"Mual. Muntah. Sering bersendawa. Hilang nafsu makan. Berat badan turun. Sulit menarik nafas. Nyeri pada leher, pusar, dan punggung. Nyeri atau perih pada perut pada malam hari"
+50,Tukak Lambung (Luka pada lambung),Sering bersendawa. Badan Lemas. Mual. Muntah. Dada terasa terbakar. Perut kembung. Nafsu makan hilang. Nyeri atau perih pada perut. Sakit maag. Sakit hilang setelah minum obat maag tetapi kambuh lagi setelah beberapa saat
+51,Tukak Lambung (Luka pada lambung),badan lemas. Muntah. Mual. Sering bersendawa. Nyeri atau perih pada perut. Mudah kenyang Tidak nafsu makan. Sakit maag. Sakit pada perut terasa makin parah bila perut kosong. Sakit hilang setelah minum obat maag tetapi kambuh lagi setelah beberapa saat

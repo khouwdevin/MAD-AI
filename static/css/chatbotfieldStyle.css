@@ -1,0 +1,51 @@
+section #area{
+    height: 360px;
+    margin: auto;
+    background-color: white;
+    border: 5px groove #79a3b1;
+    overflow-y: auto;
+}
+section #botlogo, #userlogo{
+    width: 50px;
+    height: 50px;
+}
+section #Chatbot, #User{
+    width: 100%;
+}
+section #chatuser, #chatbot{
+    font-family: "Perpetua";
+    font-size: 22px;
+    font-weight: bold;
+}
+section table{
+    border-bottom: 2px groove #79a3b1;
+}
+section #bott{
+    float: right;
+}
+section #textuser, #textbot{
+    font-weight: normal;
+    font-size: 18px;
+}
+section #sub{
+    height: 18px;
+    width: 15px;
+    margin-bottom: 3px;
+}
+section #button{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 12px;
+}
+section #button:hover{
+    background-color: #c6fced;
+    border-color: #c6fced;
+    cursor: pointer;
+}
+section #areateks{
+    border-radius: 5px;
+    border: 2px ridge #79a3b1;
+    font-family: Perpetua;
+    font-size: 24px;
+}

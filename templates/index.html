@@ -1,0 +1,72 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Chatbot page</title>
+        <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+        <link rel="stylesheet" type="text/css" href="{% static 'css/chatbotfieldStyle.css' %}">
+        <script src="{% static 'javascript/chat.js' %}" charset="utf-8"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/brython@3.9.0/brython.min.js"></script>
+        <script type="text/python" src="speechrecognition.py"></script>
+    </head>
+    <body onload='start()'>
+        <header>
+            <img src="{% static 'img/headerlogo.png/' %}" alt="headerlogo" id='headerlogo'>
+            <nav>
+                <a href='http://127.0.0.1:8000'>
+                    <span id='home'>
+                        HOME
+                    </span>
+                </a>
+                <a href='http://127.0.0.1:8000/checking/'>
+                    <span id='chatbot' href='http://127.0.0.1:8000/'>
+                        CHECKING
+                    </span>
+                </a>
+                <a href="http://127.0.0.1:8000/about/">
+                    <span id='about'>
+                        ABOUT US
+                    </span>
+                </a>
+            </nav>
+        </header>
+        <section>
+            <div id='area'>
+                <div id='Chatbot'>
+                    <span class='logo'>
+                        <img id="botlogo" src='{% static 'img/chatbot.png/' %}' alt='bot logo' id='headerlogo'>
+                    </span>
+                    <span class="chatbot">
+                        Bot<br><hr id="bot"><br>
+                        <span id='textbot'>Hello, I'm bot. Can i help you?</span>
+                    </span>
+                </div>
+                <div id="User">
+                    <span class='logo'>
+                        <img id="userlogo" src='{% static 'img/userlogo.png/' %}' alt='user logo'>
+                    </span>
+                    <span class="chatuser">
+                        User<br><hr id="use"><br>
+                        <span id='textuser'></span>
+                    </span>
+                </div>
+            </div>
+            <div class="Type">
+                    <input type="text" name="chat" placeholder="Type here.." size='40' id='areateks' value=''>
+                    <button id='button' onclick=newChat()>
+                        <img src="{% static 'img/arrow.png/' %}" alt="arrow" id='sub'>
+                    </button>
+                    <div id="end">
+                        <h3>Thank you for checking</h3>
+                    </div>
+            </div>
+
+        </section>
+        <footer>
+            <p>Copyright (｡･∀･)ﾉﾞ <br>MAD 2020</p>
+        </footer>
+    </body>
+</html>

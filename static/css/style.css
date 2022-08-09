@@ -1,0 +1,52 @@
+body{
+    background-image: url(../img/background.png);
+    background-size: cover;
+
+}
+header, footer, section #team, section .btn{
+    background-color: #79a3b1;
+    color: white;
+}
+header #headerlogo{
+    width: 110px;
+    height: 100px;
+	filter: invert(100%);
+}
+header #headerlogo:hover{
+	filter: invert(85%);
+	transition: 2s;
+}
+header a{
+    color: white;
+	font-family: sans-serif;
+}
+header .navi:hover, section .btn:hover{
+    background-color: white;
+    color: #79a3b1;
+    cursor: pointer;
+	transform: scale(1.10);
+	transition: 0.5s;
+	border-radius: 5px;
+}
+section{
+	overflow: auto;
+}
+section #showcase{
+    background-image: url("../img/homebot.jpg");
+    background-size: cover;
+}
+section #meet{
+    background-image: url("../img/collab.jpg");
+    background-size: cover;
+}
+section #botlogo, #userlogo{
+    width: 50px;
+    height: 50px;
+}
+
+footer{
+    left: 0px;
+	position: absolute;
+    font-size: 12px;
+	width: 100%;
+}
